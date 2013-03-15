@@ -1,0 +1,51 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;
+}
+ 
+body{
+  background: url('../imgs/low_contrast_linen.png');
+}
+ 
+.asset {
+  border: 10px solid #AAA;  
+  float: left;
+  height: 320px;
+  width: 198px;
+  margin: 20px;
+  overflow: hidden;
+  box-shadow: 5px 5px 5px #111;  
+}
+
+.asset img {
+	-webkit-filter: blur(3px);
+	   -moz-filter: blur(3px);
+	    -ms-filter: blur(3px);
+			filter: blur(3px);
+
+	-webkit-transition: all 0.7s ease;
+	   -moz-transition: all 0.7s ease;
+		-ms-transition: all 0.7s ease;
+			transition: all 0.7s ease;
+}
+
+.asset img:hover{
+	-webkit-filter: blur(0px);
+	   -moz-filter: blur(0px);
+	    -ms-filter: blur(0px);
+			filter: blur(0px);
+	cursor: pointer;
+}
+
+.desc{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	padding: 10px 12px;
+	font-size: 0.8em;
+	opacity: 0.5;
+	color: #AAA;
+	background: black;
+	z-index: 2000;
+	position: relative;
+}
