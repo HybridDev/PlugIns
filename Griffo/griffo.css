@@ -1,0 +1,92 @@
+/*Griffo v1.0 ~ HybDev*/
+
+@import url("normalito.css");
+
+.container{
+	border: 2px solid black;
+	margin: 0px auto;
+	width: 90%;
+	min-width: 320px;
+	overflow: hidden;
+}
+/*==================TAMAÑOS=====================*/
+.tam1, .tam2, .tam3, .tam4, .tam5, .tam6, .tam7, .tam8, .tam9, .tam10, .tam11, .tam12{
+	border: 2px solid gray;
+	margin: 10px;
+	float: left;
+	word-wrap: break-word;
+}
+
+.tam1{
+	width: 8.3333%
+}
+.tam2{
+	width: 16.6666%
+}
+.tam3{
+	width: 25%
+}
+.tam4{
+	width: 33.3333%
+}
+.tam5{
+	width: 41.6666%
+}
+.tam6{
+	width: 50%
+}
+.tam7{
+	width: 58.3333%
+}
+.tam8{
+	width: 66.6666%
+}
+.tam9{
+	width: 75%
+}
+.tam10{
+	width: 83.3333%
+}
+.tam11{
+	width: 91.6666%
+}
+.tam12{
+	width: 100%
+}
+/*==================POSICIONES==============*/
+.pos1{
+	width: 8.3333%
+}
+.pos2{
+	width: 16.6666%
+}
+.pos3{
+	width: 25%
+}
+.pos4{
+	width: 33.3333%
+}
+.pos5{
+	width: 41.6666%
+}
+.pos6{
+	width: 50%
+}
+.pos7{
+	width: 58.3333%
+}
+.pos8{
+	width: 66.6666%
+}
+.pos9{
+	width: 75%
+}
+.pos10{
+	width: 83.3333%
+}
+.pos11{
+	width: 91.6666%
+}
+.pos12{
+	width: 100%
+}
