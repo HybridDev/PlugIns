@@ -1,17 +1,20 @@
+var desp;
+
 $(window).load(function(){
+	desp=$(".desc").outerHeight()+20
 	$(".asset").hover(
 		function(){
-			$(".desc").animate({bottom: '+='+$(".desc").height()+75}, 700);
+			$(".desc").animate({bottom: '+='+desp}, 700);
 		},
 		function(){
-			$(".desc").animate({bottom: '-='+75}, 700)
+			$(".desc").animate({bottom: '-='+desp}, 700)
 		})
 
 	$(".desc").hover(
 		function(){
-			$(this).css("opacity", 1)
+			$(this).css("opacity", 0.9)
 		},
 		function(){
-			$(this).css("opacity", 0.4)
+			$(this).css("opacity", 0.5)
 	})
 })
