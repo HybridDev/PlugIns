@@ -2,23 +2,32 @@
 
 @import url("normalito.css");
 
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+      -ms-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 .container{
 	background: blue;
 	margin: 0px auto;
 	width: 90%;
-	min-width: 320px;
+	min-width: 240px;
 	overflow: hidden;
 }
 /*==================TAMAÑOS=====================*/
 .tam1, .tam2, .tam3, .tam4, .tam5, .tam6, .tam7, .tam8, .tam9, .tam10, .tam11, .tam12{
 	background: gray;
-	margin-left: 1%;
+	margin: 1% 0% 0% 1%;
 	float: left;
+	padding: 1%;
 	word-wrap: break-word;
 }
 
 .tam1{
 	width: 7.25%;
+	min-width: 64px;
 }
 .tam2{
 	width: 15.5%
@@ -53,5 +62,6 @@
 .tam12{
 	width: 98%
 }
+
 
 /*==================POSICIONES===============*/

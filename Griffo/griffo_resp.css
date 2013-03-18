@@ -1,0 +1,62 @@
+@media screen and (max-width:1024px) {
+	.tam1{
+			width: 7.25%;
+	}
+}
+
+@media screen and (max-width: 960px) {
+	.container{
+		width: 100%
+	}
+	.tam1{
+		width: 8%;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.tam1{
+		width: 8.9%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.tam1{
+		width: 10%;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.tam1{
+		width: 11.375%;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.tam1{
+		width: 13.14%;
+	}
+}
+
+@media screen and (max-width: 481px) {
+	.tam1{
+		width: 15.5%;
+	}
+}
+
+@media screen and (max-width: 420px) {
+	.tam1{
+		width: 18.8%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.tam1{
+		width: 23.75%;
+	}
+}
+
+@media screen and (max-width: 280px) {
+	.tam1{
+		width: 32%;
+	}
+}
