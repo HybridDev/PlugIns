@@ -3,7 +3,7 @@
 @import url("normalito.css");
 
 .container{
-	border: 2px solid black;
+	background: blue;
 	margin: 0px auto;
 	width: 90%;
 	min-width: 320px;
@@ -11,82 +11,47 @@
 }
 /*==================TAMAÑOS=====================*/
 .tam1, .tam2, .tam3, .tam4, .tam5, .tam6, .tam7, .tam8, .tam9, .tam10, .tam11, .tam12{
-	border: 2px solid gray;
-	margin: 10px;
+	background: gray;
+	margin-left: 1%;
 	float: left;
 	word-wrap: break-word;
 }
 
 .tam1{
-	width: 8.3333%
+	width: 7.25%;
 }
 .tam2{
-	width: 16.6666%
+	width: 15.5%
 }
 .tam3{
-	width: 25%
+	width: 23,75%
 }
 .tam4{
-	width: 33.3333%
+	width: 32%
 }
 .tam5{
-	width: 41.6666%
+	width: 40.25%
 }
 .tam6{
-	width: 50%
+	width: 48.5%
 }
 .tam7{
-	width: 58.3333%
+	width: 56.75%
 }
 .tam8{
-	width: 66.6666%
+	width: 65%
 }
 .tam9{
-	width: 75%
+	width: 73.25%
 }
 .tam10{
-	width: 83.3333%
+	width: 81.5%
 }
 .tam11{
-	width: 91.6666%
+	width: 89.75%
 }
 .tam12{
-	width: 100%
+	width: 98%
 }
-/*==================POSICIONES==============*/
-.pos1{
-	width: 8.3333%
-}
-.pos2{
-	width: 16.6666%
-}
-.pos3{
-	width: 25%
-}
-.pos4{
-	width: 33.3333%
-}
-.pos5{
-	width: 41.6666%
-}
-.pos6{
-	width: 50%
-}
-.pos7{
-	width: 58.3333%
-}
-.pos8{
-	width: 66.6666%
-}
-.pos9{
-	width: 75%
-}
-.pos10{
-	width: 83.3333%
-}
-.pos11{
-	width: 91.6666%
-}
-.pos12{
-	width: 100%
-}
+
+/*==================POSICIONES===============*/
