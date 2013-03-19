@@ -1,62 +1,96 @@
 @media screen and (max-width:1024px) {
-	.tam1{
-			width: 7.25%;
-	}
+	.t01{width: 7.25%}
+	.t02{width: 15.5%}
+	.t03{width: 23.75%}
+	.t04{width: 32%}
+	.t05{width: 40.25%}
+	.t06{width: 48.5%}
+	.t07{width: 56.75%}
+	.t08{width: 65%}
+	.t09{width: 73.25%}
+	.t10{width: 81.5%}
+	.t11{width: 89.75%}
+	.t12{width: 98%}
 }
-
-@media screen and (max-width: 960px) {
-	.container{
-		width: 100%
-	}
-	.tam1{
-		width: 8%;
-	}
+@media screen and (max-width: 960px){
+	.container{width: 100%}
+	.t01{width: 8%}
+	.t02{width: 17%}
+	.t03{width: 26%}
+	.t04{width: 35%}
+	.t05{width: 44%}
+	.t06{width: 53%}
+	.t07{width: 62%}
+	.t08{width: 71%}
+	.t09{width: 80%}
+	.t10{width: 89%}
+	.t11{width: 98%}
 }
-
-@media screen and (max-width: 800px) {
-	.tam1{
-		width: 8.9%;
-	}
+@media screen and (max-width: 800px){
+	.t01{width: 8.9%}
+	.t02{width: 18.8%}
+	.t03{width: 28.7%}
+	.t04{width: 38.6%}
+	.t05{width: 48.5%}
+	.t06{width: 58.4%}
+	.t07{width: 68.3%}
+	.t08{width: 78.2%}
+	.t09{width: 88.1%}
+	.t10{width: 98%}
 }
-
-@media screen and (max-width: 768px) {
-	.tam1{
-		width: 10%;
-	}
+@media screen and (max-width: 768px){
+	.t01{width: 10%}
+	.t02{width: 21%}
+	.t03{width: 32%}
+	.t04{width: 43%}
+	.t05{width: 54%}
+	.t06{width: 65%}
+	.t07{width: 76%}
+	.t08{width: 87%}
+	.t09{width: 98%}
 }
-
-@media screen and (max-width: 640px) {
-	.tam1{
-		width: 11.375%;
-	}
+@media screen and (max-width: 640px){
+	.t01{width: 11.375%}
+	.t02{width: 23.750%}
+	.t03{width: 36.125%}
+	.t04{width: 48.5%}
+	.t05{width: 60.875%}
+	.t06{width: 74.25%}
+	.t07{width: 85.625%}
+	.t08{width: 98%}
 }
-
-@media screen and (max-width: 550px) {
-	.tam1{
-		width: 13.14%;
-	}
+@media screen and (max-width: 550px){
+	.t01{width: 13.1428%}
+	.t02{width: 27.28%}
+	.t03{width: 41.42%}
+	.t04{width: 55.56%}
+	.t05{width: 69.7%}
+	.t06{width: 83.84%}
+	.t07{width: 98%}
 }
-
-@media screen and (max-width: 481px) {
-	.tam1{
-		width: 15.5%;
-	}
+@media screen and (max-width: 481px){
+	.t01{width: 15.5%}
+	.t02{width: 32%}
+	.t03{width: 48.5%}
+	.t04{width: 65%}
+	.t05{width: 81.5%}
+	.t06{width: 98%}
 }
-
-@media screen and (max-width: 420px) {
-	.tam1{
-		width: 18.8%;
-	}
+@media screen and (max-width: 420px){
+	.t01{width: 18.8%}
+	.t02{width: 38.6%}
+	.t03{width: 58.4%}
+	.t04{width: 78.2%}
+	.t05{width: 98%}
 }
-
-@media screen and (max-width: 320px) {
-	.tam1{
-		width: 23.75%;
-	}
+@media screen and (max-width: 320px){
+	.t01{width: 23.75%}
+	.t02{width: 48.50%}
+	.t03{width: 73.25%}
+	.t04{width: 98%}
 }
-
-@media screen and (max-width: 280px) {
-	.tam1{
-		width: 32%;
-	}
+@media screen and (max-width: 280px){
+	.t01{width: 32%}
+	.t02{width: 65%}
+	.t03{width: 98%}
 }

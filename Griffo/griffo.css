@@ -8,60 +8,65 @@
       -ms-box-sizing: border-box;
           box-sizing: border-box;
 }
-
-.container{
-	background: blue;
+.container{ 
+	background: #FAFAFA;
 	margin: 0px auto;
 	width: 90%;
 	min-width: 240px;
 	overflow: hidden;
 }
 /*==================TAMAÑOS=====================*/
-.tam1, .tam2, .tam3, .tam4, .tam5, .tam6, .tam7, .tam8, .tam9, .tam10, .tam11, .tam12{
-	background: gray;
-	margin: 1% 0% 0% 1%;
+.t01, .t02, .t03, .t04, .t05, .t06,
+.t07, .t08, .t09, .t10, .t11, .t12{
+	box-shadow: inset 0px 0px 5px 1px #F5F5F5;
+	border: solid 1px #AAA;
+	background: white;
+	min-width: 240px;
+	margin-left: 1%;
+	margin-top: 1%;
 	float: left;
 	padding: 1%;
 	word-wrap: break-word;
 }
 
-.tam1{
+.t01{
 	width: 7.25%;
 	min-width: 64px;
 }
-.tam2{
-	width: 15.5%
+.t02{
+	width: 15.5%;
+	min-width: 128px;	
 }
-.tam3{
-	width: 23,75%
+.t03{
+	width: 23.75%;
+	min-width: 192px;
 }
-.tam4{
-	width: 32%
+.t04{
+	width: 32%;
 }
-.tam5{
-	width: 40.25%
+.t05{
+	width: 40.25%;
 }
-.tam6{
-	width: 48.5%
+.t06{
+	width: 48.5%;
 }
-.tam7{
-	width: 56.75%
+.t07{
+	width: 56.75%;
 }
-.tam8{
-	width: 65%
+.t08{
+	width: 65%;
 }
-.tam9{
-	width: 73.25%
+.t09{
+	width: 73.25%;
 }
-.tam10{
-	width: 81.5%
+.t10{
+	width: 81.5%;
 }
-.tam11{
-	width: 89.75%
+.t11{
+	width: 89.75%;
 }
-.tam12{
-	width: 98%
+.t12{
+	width: 98%;
 }
-
 
 /*==================POSICIONES===============*/
